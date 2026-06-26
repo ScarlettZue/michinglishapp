@@ -26,7 +26,7 @@ describe('Pruebas Unitarias - Validación de Vocabulario de Kevin Manzano', () =
       // Validar que los IDs vayan del 1 al 4 consecutivamente
       expect(word.id).toBe(index + 1);
       
-      // Validar que las palabras coincidan exactamente con tu archivo info.json
+      // Validar que las palabras coincidan exactamente con el archivo info.json
       expect(word.en).toBe(expectedAnimalsEn[index]);
       expect(word.es).toBe(expectedAnimalsEs[index]);
       
