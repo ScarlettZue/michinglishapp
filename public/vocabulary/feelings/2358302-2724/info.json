@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Jerson Otero",
+    "profileImage": "https://static.wikia.nocookie.net/multiversus/images/a/ac/Superman_Portrait_Full.png",
+    "socialLink": "@jersonotero"
+  },
+  "words": [
+  { "id": 1, "en": "hopeful", "es": "esperanzado" },
+  { "id": 2, "en": "frustrated", "es": "frustrado" },
+  { "id": 3, "en": "curious", "es": "curioso" },
+  { "id": 4, "en": "relieved", "es": "aliviado" }
+]
+}
