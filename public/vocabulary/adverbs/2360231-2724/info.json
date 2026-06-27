@@ -1,0 +1,29 @@
+{
+  "user": {
+    "username": "Valentina Nitola",
+    "profileImage": "https://github.com/ScarlettZue.png",
+    "socialLink": "@_scarlettzue_"
+  },
+  "words": [
+    {
+      "id": 1,
+      "en": "slowly",
+      "es": "lentamente"
+    },
+    {
+      "id": 2,
+      "en": "happily",
+      "es": "alegremente"
+    },
+    {
+      "id": 3,
+      "en": "sometimes",
+      "es": "a veces"
+    },
+    {
+      "id": 4,
+      "en": "carefully",
+      "es": "cuidadosamente"
+    }
+  ]
+}
