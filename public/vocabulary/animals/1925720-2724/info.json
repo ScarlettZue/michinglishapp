@@ -1,0 +1,13 @@
+{
+  "user": {
+    "username": "Kevin Manzano",
+    "profileImage": "https://avatars.githubusercontent.com/u/124271619?s=400&v=4",
+    "socialLink": "@KevinJMG"
+  },
+  "words": [
+    { "id": 1, "en": "Axolotl", "es": "Ajolote" },
+    { "id": 2, "en": "Shrew", "es": "Musaraña" },
+    { "id": 3, "en": "Badger", "es": "Tejón" },
+    { "id": 4, "en": "Porcupine", "es": "Puercoespín" }
+  ]
+}
